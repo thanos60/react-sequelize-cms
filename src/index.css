@@ -1,0 +1,29 @@
+dl,
+ol,
+ul {
+    margin: 0;
+    vertical-align: middle;
+}
+
+a,
+button {
+    cursor: pointer;
+}
+
+.navbar-brand {
+    font-size: 35px;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+p.title {
+    font-size: 28px;
+    color: #454673;
+}
+
+p.subtitle {
+    font-size: 18px;
+    color: #454673;
+}
